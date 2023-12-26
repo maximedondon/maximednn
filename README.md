@@ -2,7 +2,7 @@
 - 👀 I’m interested in webdesign, motion design & branding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on webdesign projects
-- 📫 How to reach me 
+- 📫 How to reach me hi@maximedondon.fr
 
 <!---
 maximednn/maximednn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
